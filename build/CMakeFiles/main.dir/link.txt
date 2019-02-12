@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/main.dir/app/main.cpp.o CMakeFiles/main.dir/app/src/LGlad.cpp.o CMakeFiles/main.dir/app/src/utils.cpp.o CMakeFiles/main.dir/app/src/LClass.cpp.o CMakeFiles/main.dir/app/src/LShader.cpp.o  -o main -lglfw -ldl /usr/lib/x86_64-linux-gnu/libGLU.so /usr/lib/x86_64-linux-gnu/libGL.so 
